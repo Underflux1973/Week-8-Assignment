@@ -17,6 +17,15 @@ As has always been the case I simply run out of time to finish the project. I fi
 
 My wire frame and database scheme image files are included in the public file that I've created in the project.
 
+I have had some problems with the deployment on Vercel. I had to pick up my son from school at the time when that workshop was on, and i haven't received the video from the workshop as yet so I'm sorry i couldn't work it out in time.  
+
+In the meantime, here is the link to my repo so you can at least see something.  
+I will get up to speed on the Vercel as soon as i can.  
+https://github.com/Underflux1973/Week-8-Assignment
+
+
+
+
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
